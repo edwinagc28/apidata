@@ -2,21 +2,52 @@
     "makePayment":[
         {
             "id":2,
+			"usuario":"company",
             "phone":"3598801818",
             "name":"Edwin Gutierrez",
             "amount":"350000"
         },
         {
             "id":1,
+			"usuario":"rick12",
             "phone":"3116754545",
             "name":"Pablo Garnica",
             "amount":"250000"
         },
         {
             "id":3,
+			"usuario":"rick12",
             "phone":"310878979",
             "name":"Alejandro",
             "amount":"50000"
         }
     ]
+	
+	"MortgageRequest":[
+		{
+            "id":10,
+			"name1":"Pedro",
+            "name2":"Infante",
+            "age":"25",
+            "address1":"Calle 10"
+			"address2":"av 3"
+        },
+		{
+            "id":11,
+			"name1":"Maria",
+            "name2":"Rosas",
+            "age":"30",
+            "address1":"Calle 40"
+			"address2":"av 3"
+        },
+		{
+            "id":11,
+			"name1":"Pablo",
+            "name2":"Celis",
+            "age":"30",
+            "address1":"Calle 40"
+			"address2":"av 3"
+        }
+	
+	]
 }
