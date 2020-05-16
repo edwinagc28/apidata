@@ -1,5 +1,4 @@
-{
-    "makePayment":[
+"makePayment":[
         {
             "id":2,
 			"usuario":"company",
@@ -22,4 +21,3 @@
             "amount":"50000"
         }
     ]
-}
